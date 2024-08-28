@@ -1,2 +1,0 @@
-INTPROG-EXERCISE-1
-My Activity 
